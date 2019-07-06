@@ -1,3 +1,3 @@
 # Django_test
 
-跟着慕课网上的教学视频写的Django项目
+跟着Django企业开发实战（作者胡阳）进行学习的Django博客项目
